@@ -1,3 +1,3 @@
-## data-app
+# data-app
 
-# This is an application made using React Native
+### This is an application made using ```React Native```.
